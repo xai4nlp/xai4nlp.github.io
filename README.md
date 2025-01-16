@@ -6,6 +6,8 @@ For every topic included in this tutorial, we have prepared a collection of reco
 
 ## Natural Language Explanations (NLEs)
 
+Camburu, Oana-Maria, et al. "e-snli: Natural language inference with natural language explanations." Advances in Neural Information Processing Systems 31 (2018).‏ ([link](https://papers.nips.cc/paper_files/paper/2018/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf))
+
 Brown, Tom, et al. "Language Models Are Few-Shot Learners." Advances in Neural Information Processing Systems, Curran Associates, Inc., 2020, pp. 1877–1901. Proceedings of NeurIPS 2020.([link](https://arxiv.org/pdf/2005.14165))
 
 Rajani, Nazneen Fatema, et al. "Explain yourself! leveraging language models for commonsense reasoning." arXiv preprint arXiv:1906.02361 (2019).‏([link](https://arxiv.org/pdf/1906.02361))

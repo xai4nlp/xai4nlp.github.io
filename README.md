@@ -1,10 +1,10 @@
 
-#Reading Materials
+# Reading Materials
 
 For every topic included in this tutorial, we have prepared a collection of recommended readings. Every topic includes its own dedicated set of papers that will be explored during the session. We welcome community input and feedback to further enrich these resources.
 
 
-##Natural Language Explanations (NLEs)
+## Natural Language Explanations (NLEs)
 
 Brown, Tom, et al. "Language Models Are Few-Shot Learners." Advances in Neural Information Processing Systems, Curran Associates, Inc., 2020, pp. 1877–1901. Proceedings of NeurIPS 2020.
 

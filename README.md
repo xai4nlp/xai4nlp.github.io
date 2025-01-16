@@ -10,9 +10,9 @@ Brown, Tom, et al. "Language Models Are Few-Shot Learners." Advances in Neural I
 
 Rajani, Nazneen Fatema, et al. "Explain yourself! leveraging language models for commonsense reasoning." arXiv preprint arXiv:1906.02361 (2019).‏([link](https://arxiv.org/pdf/1906.02361))
 
-Yordanov, Yordan, et al. "Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations." NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications.‏
+Yordanov, Yordan, et al. "Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations." NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications.‏ ([link]([https://arxiv.org/pdf/2005.14165](https://aclanthology.org/2022.findings-emnlp.255.pdf)))
 
-He, Xuanli, et al. "Using natural language explanations to improve robustness of in-context learning." Proceedings of the Annual Meeting of the Association for Computational Linguistics. Vol. 1. Association for Computational Linguistics, 2024.
+He, Xuanli, et al. "Using natural language explanations to improve robustness of in-context learning." Proceedings of the Annual Meeting of the Association for Computational Linguistics. Vol. 1. Association for Computational Linguistics, 2024. ([link]([[https://arxiv.org/pdf/2005.14165](https://aclanthology.org/2022.findings-emnlp.255.pdf](https://aclanthology.org/2024.acl-long.728.pdf))))
 
 Marasovic, Ana, et al. "Few-Shot Self-Rationalization with Natural Language Prompts." 2022 Findings of the Association for Computational Linguistics: NAACL 2022. Association for Computational Linguistics (ACL), 2022.‏
 

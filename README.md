@@ -12,7 +12,7 @@ Rajani, Nazneen Fatema, et al. "Explain yourself! leveraging language models for
 
 Yordanov, Yordan, et al. "Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations." NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications.‏ ([link](https://aclanthology.org/2022.findings-emnlp.255.pdf))
 
-He, Xuanli, et al. "Using natural language explanations to improve robustness of in-context learning." Proceedings of the Annual Meeting of the Association for Computational Linguistics. Vol. 1. Association for Computational Linguistics, 2024. ([link](https://aclanthology.org/2022.findings-emnlp.255.pdf](https://aclanthology.org/2024.acl-long.728.pdf))
+He, Xuanli, et al. "Using natural language explanations to improve robustness of in-context learning." Proceedings of the Annual Meeting of the Association for Computational Linguistics. Vol. 1. Association for Computational Linguistics, 2024. ([link] (https://aclanthology.org/2024.acl-long.728.pdf))
 
 Marasovic, Ana, et al. "Few-Shot Self-Rationalization with Natural Language Prompts." 2022 Findings of the Association for Computational Linguistics: NAACL 2022. Association for Computational Linguistics (ACL), 2022.‏
 
